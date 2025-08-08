@@ -3,7 +3,8 @@
 This project applies machine learning techniques to perform **sentiment analysis** on a dataset of 1.6 million preprocessed tweets. It uses **TF-IDF vectorization** and a **Logistic Regression** classifier to categorize tweets into Positive, Negative, or Neutral sentiments.
 
 ## 📁 Dataset
-The dataset used is the `training.1600000.processed.noemoticon.csv` which contains:
+# Dataset is aviable in kaggle with this link : (https://www.kaggle.com/datasets/kazanova/sentiment140)
+The dataset used is the `training.1600000.processed.noemoticon.csv` which contains: 
 - 1.6 million tweets
 - Sentiment labels (0 = negative, 2 = neutral, 4 = positive)
 
